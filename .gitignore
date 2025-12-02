@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+venv/
+.env/
+
+# IDE files
+.idea/
+
+# Models (heavy files)
+models/
+*.dat
+
+# OS junk
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Datasets (optional)
+datasets/
